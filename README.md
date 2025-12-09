@@ -1,3 +1,5 @@
+Deployment: https://suyashsahu00.github.io/Scoreboard/
+
 # Basketball Scoreboard
 
 A simple, minimalistic digital scoreboard for tracking basketball scores between Home and Guest teams. Built with vanilla HTML, CSS, and JavaScript.
